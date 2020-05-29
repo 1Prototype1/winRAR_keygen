@@ -1,7 +1,5 @@
 # WinRAR-Keygen
 
-[中文版README](README.zh-CN.md)
-
 ## 1. What is WinRAR?
 
 WinRAR is a trialware file archiver utility for Windows, developed by Eugene Roshal of win.rar GmbH. 
@@ -62,23 +60,24 @@ Usage:
 
 Example:
 
-        winrar-keygen.exe "Rebecca Morrison" "Single PC usage license"
+        winrar-keygen.exe "Prototype" "Unlimited Company License"
   or:
-        winrar-keygen.exe "Rebecca Morrison" "Single PC usage license" > rarreg.key
+        winrar-keygen.exe "Prototype" "Unlimited Company License" > rarreg.key
 ```
 
 ```console
-$ winrar-keygen.exe "DoubleLabyrinth" "Single PC usage license"
+$ winrar-keygen.exe "Prototype" "Unlimited Company License"
 RAR registration data
-DoubleLabyrinth
-Single PC usage license
-UID=d2fb7cb15c078a3def58
-6412212250ef58bef21cdcb49ca34b7040112cae5a512f1adad1a8
-f6d2ee8c382fe64f8e3d6035c6ab9048e2c5c62f0238f183d28519
-aa87488bf38f5b634cf28190bdf438ac593b1857cdb55a7fcb0eb0
-c3e4c2736090b3dfa45384e08e9de05c5860d3051942adf2db9d96
-e2ec37f1cfae00b3e2455093b90e4e352f016f6b9853c735d45fb4
-01f9cbb91d3f3ac5664511229f8c9b0a9e1d61a2e087b481607e91
-bfc8a83414f6807d31a5f8c587513aa54f9b1249ad804214409316
+Prototype
+Unlimited Company License
+UID=4d07242e8f4863658c8c
+64122122508c8cd2af98c0c8b88723e11464203164d4fcd57168ad
+3bb428f168f7a8e98a89604c1960b1d7f798616191cdc1c16a611c
+d94f48dd7749d20c64cee4e7afcaf5b31e8ffd1be082285cb5c1e8
+abbf2c6387187f512a0d242a56b94b5ecc608508c3b89aef817de3
+6023e3a0d1610eafdae4571ec42e68a325f125a09af5b31e8ffd1b
+e082285cb491dd4899f59ec5194e7c90ff7d457366e0030760a95c
+8f47a39954e36a787c7076b518111fa29f219127641c1958429930
 ```
 
+### Credits: z9421371
